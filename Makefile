@@ -1,12 +1,3 @@
-##
-## Makefile for  in /home/valentin.collomb/Epitech/Year_2/Experiment/ASM/asm_bootstrap/Valentin
-## 
-## Made by Valentin Collomb
-## Login   <valentin.collomb@epitech.net>
-## 
-## Started on  Tue Feb 28 17:43:35 2017 Valentin Collomb
-## Last update Sun Mar 26 22:36:20 2017 Storm
-##
 
 RM		=	rm -f
 
